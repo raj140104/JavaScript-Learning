@@ -7,5 +7,5 @@ city = "Sh"
 console.log("After one year")
 age = 21
 state = "punjab"
-
+//name = "Raj" (Const)
 console.table([name, age, state, city])
