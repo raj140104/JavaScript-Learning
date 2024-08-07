@@ -5,3 +5,5 @@ console.log(myDate.toDateString())
 
 console.log(myDate.getDay())
 
+console.log(Date.now())
+
